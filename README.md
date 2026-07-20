@@ -25,14 +25,16 @@
 <table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
   <tr>
     <td width="50%" align="center" valign="top" style="border: none; padding: 10px;">
-      <p><strong>Démonstration YouTube</strong></p>
+      <p><strong>Démonstration Plan de Vol</strong></p>
       <a href="https://www.youtube.com/watch?v=Mck8iQaiIPo" target="_blank" title="Regarder la démo sur YouTube">
         <img src="https://img.youtube.com/vi/Mck8iQaiIPo/maxresdefault.jpg" alt="Démonstration Vidéo UvuKCube" style="max-width: 100%; border-radius: 16px; border: 3px solid #1e2937; box-shadow: 4px 4px 0px #1e2937;">
       </a>
     </td>
     <td width="50%" align="center" valign="top" style="border: none; padding: 10px;">
-      <p><strong>Rendu Audio-Tactile Intégral (Local)</strong></p>
-      <video src="uvuk-ist-sound-md.mp4" controls width="100%" style="max-width: 100%; border-radius: 16px; border: 3px solid #1e2937; box-shadow: 4px 4px 0px #1e2937; background-color: #0b0f19;"></video>
+      <p><strong>Rendu Audio-Tactile Intégral</strong></p>
+      <a href="https://www.youtube.com/watch?v=-9zXiUNQLnc" target="_blank" title="Regarder le rendu audio-tactile sur YouTube">
+        <img src="https://img.youtube.com/vi/-9zXiUNQLnc/maxresdefault.jpg" alt="Rendu Audio-Tactile UvuKCube" style="max-width: 100%; border-radius: 16px; border: 3px solid #1e2937; box-shadow: 4px 4px 0px #1e2937;">
+      </a>
     </td>
   </tr>
 </table>
